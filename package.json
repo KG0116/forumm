@@ -1,0 +1,23 @@
+{
+	"title": "Forumm",
+	"name": "forumm", 
+	"description": "Clean, simple web forum", 
+	"version": "0.0.1",
+	"author": {
+				"name": "Kevin Garrett",
+				"email": ""
+	},
+	"dependencies": {
+
+	},
+	"devDependencies": {
+    "gulp-rename": "~1.2.0",
+    "gulp-minify-css": "~0.3.7",
+    "gulp-ruby-sass": "~0.7.1",
+    "gulp-autoprefixer": "0.0.8",
+    "gulp-image-optimization": "~0.1.3",
+    "gulp": "~3.8.7",
+    "gulp-concat": "~2.3.4",
+    "gulp-uglify": "~0.3.1"
+  }
+}
