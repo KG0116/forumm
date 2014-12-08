@@ -26,6 +26,7 @@ Web Forum
 <br />
 <sub>The parsed, sanitized markdown and the raw markdown are both saved (in separate tables) to allow users to edit their posts without necessitating parsing and sanitizing each time the post is displayed.</sub>
 <br /> 
+<br />
 ![enter image description here](https://dl.dropboxusercontent.com/s/9c58k0uezk7aboc/edit.png?dl=0)
 
 <br />
