@@ -7,7 +7,7 @@ Web Forum
 <br />
 
 **Home (Recent Posts)**
-![enter image description here](https://dl.dropboxusercontent.com/s/mzalnr2rwryov0q/posts.png?dl=0)
+![enter image description here](https://dl.dropboxusercontent.com/s/m09wuaa4ldrn3hn/home-page-2.png?dl=0)
 <br />
 
 **Register**
